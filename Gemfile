@@ -30,6 +30,8 @@ gem "figaro"
 
 gem 'devise'
 
+gem 'stripe'
+
 
 group :production do
   gem 'pg'
